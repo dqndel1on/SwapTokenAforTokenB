@@ -2,6 +2,6 @@
 pragma solidity ^0.8.10;
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 
-contract SharedWallet {
+contract TokenSwap {
     using SafeMath for uint;
 }
